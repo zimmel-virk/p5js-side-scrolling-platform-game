@@ -1,0 +1,18 @@
+ORIGINAL PROJECT FILE VERIFICATION
+
+All included original 2D Platform Game files were verified byte-for-byte against the supplied source archive using SHA-256.
+No original JavaScript, HTML, bundled p5 library, MP3 audio asset, or PDF was modified.
+
+Original files copied and verified: 21
+SHA-256 mismatches: 0
+JavaScript files syntax-checked: 14
+JavaScript syntax failures: 0
+
+Excluded only:
+- .DS_Store operating-system metadata
+- .idea IDE metadata
+
+Added support files:
+- README.md
+- .gitignore
+- ORIGINAL_FILES_VERIFIED.txt
